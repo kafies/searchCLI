@@ -19,5 +19,5 @@ Are you lazy to search simple things on a browser? 😈
 
 ### Further improvements
 
-* Adding alias for [searchCLI.sh](../main/searchCLI.sh)\
+* Adding alias for [searchCLI.sh](../main/searchCLI.sh)
   - "scli" or "quicksearch"
