@@ -16,3 +16,8 @@ Are you lazy to search simple things on a browser? 😈
   `.\searchCLI.sh ...`
 
 * Finally the result will be in your terminal enjoy! 😎
+
+### Further improvements
+
+* Adding alias for [searchCLI.sh](../main/searchCLI.sh)\
+  - "scli" or "quicksearch"
