@@ -1,7 +1,7 @@
 # searchCLI
 
 Are you lazy to search simple things on a browser? 😈\
-  now we have **searchCLI**. A tool that let us search simple things through our terminal! 🎉
+  Now we have **searchCLI**. A tool that let us search simple things through our terminal! 🎉
 
 ## Steps
 
