@@ -6,7 +6,10 @@ Are you lazy to search simple things on a browser? 😈
 
 ## Steps
 
-* First we install google-genai which can be done using our [requirements.txt](../blob/main/requirements.txt)\
+* First we get API-key from Google via the website\
+  https://aistudio.google.com/welcome
+
+* Now we install google-genai which can be done using our [requirements.txt](../main/requirements.txt)\
   `pip install -r requirements.txt`
 
 * Then we simply type:\
