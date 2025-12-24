@@ -1,7 +1,7 @@
 import openai
 import sys
 
-key = "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"
+key = "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"
 
 openai.api_key = key
 
