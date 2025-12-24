@@ -6,7 +6,7 @@ Are you lazy to search simple things on a browser? 😈
 
 ## Steps
 
-* First we get API-key from Google via the website\
+* First, get API-key from Google via the website\
   https://aistudio.google.com/welcome
 
 * Now we install google-genai which can be done using our [requirements.txt](../main/requirements.txt)\
